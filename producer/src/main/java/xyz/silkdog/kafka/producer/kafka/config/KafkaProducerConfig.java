@@ -1,4 +1,4 @@
-package xyz.silkdog.apiproducer.kafka.config;
+package xyz.silkdog.kafka.producer.kafka.config;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,8 +1,8 @@
-package xyz.silkdog.apiproducer.restapi.service;
+package xyz.silkdog.kafka.producer.restapi.service;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import xyz.silkdog.apiproducer.kafka.listener.KafkaSender;
+import xyz.silkdog.kafka.producer.kafka.listener.KafkaSender;
 
 @Service
 @RequiredArgsConstructor

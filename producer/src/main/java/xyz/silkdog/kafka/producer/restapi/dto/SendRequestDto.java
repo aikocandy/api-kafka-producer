@@ -1,4 +1,4 @@
-package xyz.silkdog.apiproducer.restapi.dto;
+package xyz.silkdog.kafka.producer.restapi.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

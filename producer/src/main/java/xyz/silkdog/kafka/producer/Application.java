@@ -1,4 +1,4 @@
-package xyz.silkdog.apiproducer;
+package xyz.silkdog.kafka.producer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
